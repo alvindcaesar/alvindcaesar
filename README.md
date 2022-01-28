@@ -3,7 +3,7 @@
 
 I am an independent web developer and an aspiring indie hacker who hails from Sabah, Malaysia. 
 
-My work revolves primarily around [WordPress](https://wordpress.org) development but I also work with the [Ruby on Rails](https://rubyonrails.org) framework.
+My work revolves primarily around custom [WordPress](https://wordpress.org) website and theme/plugin development but I also work with the [Ruby on Rails](https://rubyonrails.org) framework.
 
 ## 💻 My Tech Stack:
 ✔️ PHP / Ruby / WordPress with [Timber](https://upstatement.com/timber/) or [Bedrock](https://roots.io/bedrock/) / Ruby on Rails / Laravel <br>
