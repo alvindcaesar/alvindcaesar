@@ -1,5 +1,5 @@
 <!-- # Yo! 🤘 -->
-### Hey! I'm Alvind Caesar, coder and problem-solver. Need something coded? I'm your man. ⚡😎
+### Hi! I'm Alvind. Need something coded? I'm your man. ⚡😎
 
 I am an independent web developer and an aspiring indie hacker who hails from Sabah, Malaysia. 
 
