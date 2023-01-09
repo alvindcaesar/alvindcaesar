@@ -9,7 +9,6 @@ Some of my personal projects I currently enjoyed doing (*These are a non-exhauti
 * [Billplz for Contact Form 7](https://github.com/alvindcaesar/billplz-for-contact-form-7) - Accept payment in Contact Form 7 by using Billplz Payment Gateway.
 * [Billplz for WP Smart Pay](https://github.com/alvindcaesar/billplz-for-wpsmartpay) - A Billplz Payment Gateway extension for [WP Smart Pay](https://wpsmartpay.com).
 * [Bloat Buster](https://github.com/alvindcaesar/bloat-buster) - A super simple plugin to remove bloat from your WordPress site.
-* [Bloat Buster](https://github.com/alvindcaesar/bloat-buster) - A super simple plugin to remove bloat from your WordPress site.
 * [Dead Simple Maintenance Mode](https://github.com/alvindcaesar/dead-simple-maintenance-mode ) - Simple and bloat free maintenance mode plugin for WordPress.
 * [Shortcuts for GeneratePress](https://github.com/alvindcaesar/gp-shortcuts) - Adds a helpful menu to the admin bar to easily jump straight into GeneratePress and GenerateBlocks menus and settings.
 
