@@ -1,18 +1,22 @@
-# Yo! 🤘
-## My name is Alvind Caesar ⚡😎
+<!-- # Yo! 🤘 -->
+### Hey! I'm Alvind Caesar, coder and problem-solver. Need something coded? I'm your man. ⚡😎
 
 I am an independent web developer and an aspiring indie hacker who hails from Sabah, Malaysia. 
 
-My work revolves primarily around custom [WordPress](https://wordpress.org) website and theme/plugin development but I also work with the [Laravel](https://laravel.com) framework.
+My work revolves primarily around custom [WordPress](https://wordpress.org) website and theme/plugin development but sometimes I also work with the [Laravel](https://laravel.com) framework.
 
-<!-- ## 💻 My Tech Stack:
-✔️ PHP || WordPress with [Timber](https://upstatement.com/timber/) || Laravel<br>
-✔️ MySQL || Postgres <br>
-✔️ Cyberpanel || Runcloud || Heroku <br>
-✔️ [DigitalOcean](https://m.do.co/c/b461caa6b976) || Vultr || AWS <br>
-✔️ ..and an unhealthy amount of caffeine in order for all of the above to work together. ☕<br> -->
+Some of my personal projects I currently enjoyed doing (*These are a non-exhautive list!*):
+* [Billplz for Contact Form 7](https://github.com/alvindcaesar/billplz-for-contact-form-7) - Accept payment in Contact Form 7 by using Billplz Payment Gateway.
+* [Billplz for WP Smart Pay](https://github.com/alvindcaesar/billplz-for-wpsmartpay) - A Billplz Payment Gateway extension for [WP Smart Pay](https://wpsmartpay.com).
+* [Bloat Buster](https://github.com/alvindcaesar/bloat-buster) - A super simple plugin to remove bloat from your WordPress site.
+* [Bloat Buster](https://github.com/alvindcaesar/bloat-buster) - A super simple plugin to remove bloat from your WordPress site.
+* [Dead Simple Maintenance Mode](https://github.com/alvindcaesar/dead-simple-maintenance-mode ) - Simple and bloat free maintenance mode plugin for WordPress.
+* [Shortcuts for GeneratePress](https://github.com/alvindcaesar/gp-shortcuts) - Adds a helpful menu to the admin bar to easily jump straight into GeneratePress and GenerateBlocks menus and settings.
 
-> *I'm currently open  any projects in accordance with the tech stack above. If you have any project in mind that needs help, don't hesitate to email me at* [`hello@alvindcaesar.com`](mailto:hello@alvindcaesar.com).
+*The projects is also available on the [WordPress plugin repository](https://profiles.wordpress.org/alvindcaesar/#content-plugins).*
+
+<!-- 
+> *I'm currently open  any projects in accordance with the tech stack above. If you have any project in mind that needs help, don't hesitate to email me at* [`hello@alvindcaesar.com`](mailto:hello@alvindcaesar.com). -->
 
 
 
