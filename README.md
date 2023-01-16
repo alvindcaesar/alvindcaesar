@@ -1,7 +1,7 @@
 <!-- # Yo! 🤘 -->
 ### Hi! I'm Alvind. Need something coded? I'm your man. ⚡😎
 
-I am an independent web developer and an aspiring indie hacker who hails from Sabah, Malaysia. 
+I am an independent web developer who hails from Sabah, East Malaysia. 
 
 My work revolves primarily around custom [WordPress](https://wordpress.org) website and theme/plugin development but sometimes I also work with the [Laravel](https://laravel.com) framework.
 
