@@ -5,7 +5,7 @@ I am an independent web developer who hails from Sabah, East Malaysia.
 
 My work revolves primarily around custom [WordPress](https://wordpress.org) website and theme/plugin development but sometimes I also work with the [Laravel](https://laravel.com) framework.
 
-Some of my personal projects I currently enjoyed doing (*These are a non-exhautive list!*):
+Some of my personal projects I currently enjoyed doing (*These are a non-exhaustive list!*):
 * [Billplz for Contact Form 7](https://github.com/alvindcaesar/billplz-for-contact-form-7) - Accept payment in Contact Form 7 by using Billplz Payment Gateway.
 * [Billplz for WP Smart Pay](https://github.com/alvindcaesar/billplz-for-wpsmartpay) - A Billplz Payment Gateway extension for [WP Smart Pay](https://wpsmartpay.com).
 * [Bloat Buster](https://github.com/alvindcaesar/bloat-buster) - A super simple plugin to remove bloat from your WordPress site.
